@@ -14,7 +14,7 @@ public  class webBrowser extends JFrame implements Runnable{
 	
 	//webBrowser(){
 		public void run() {
-		setTitle("Search");
+		setTitle("search");
 		setBounds(0,0,1950,1050);
 		setVisible(true);
 		
